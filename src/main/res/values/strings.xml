@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Official Black Business Directory</string>
+    <string name="username_field">USERNAME</string>
+    <string name="password_field">PASSWORD</string>
+    <string name="logButton_text">DONE</string>
+    <string name="biz_name">BIZ NAME</string>
+    <string name="image_upload_text">Provide 3 Business Related Images Below to Complete Your Business Listing.</string>
+    <string name="users_name">What Is Your Name</string>
+    <string name="biz_image_mid">biz_image_mid</string>
+    <string name="biz_image_right">biz_image_right</string>
+    <string name="biz_image_left">biz_image_left</string>
+    <string name="users_email">Your Biz Email Goes Here</string>
+    <string name="reg_biz_done_button">DONE</string>
+    <string name="frag_item_one">NO LIMITS</string>
+    <string name="frag_item_two">NO RESTRICTIONS</string>
+    <string name="frag_item_three">GOALS</string>
+    <string name="frag_item_four">START</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="slide1_textentry">For a Small Fee of Just</string>
+    <string name="textpc3">Join Forces With Black Business Owners Around the World</string>
+    <string name="textpc2">2.99/MONTH</string>
+    <string name="sign_up_anywhere">SIGN UP ANYWHERE!</string>
+    <string name="no_restrictions">NO RESTRICTIONS!</string>
+    <string name="login_anywhere">LOGIN ANYWHERE  And SUPPORT YOUR  FAVORITE BLACK OWNED  COMPANIES!</string>
+    <string name="todo">TODO</string>
+</resources>

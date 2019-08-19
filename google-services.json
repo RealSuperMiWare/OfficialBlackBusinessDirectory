@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585908352483",
+    "firebase_url": "https://officialblackbusinessdir-5bf50.firebaseio.com",
+    "project_id": "officialblackbusinessdir-5bf50",
+    "storage_bucket": "officialblackbusinessdir-5bf50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585908352483:android:a91e393bd8b6963c",
+        "android_client_info": {
+          "package_name": "com.supermiware.officialblackbusinessdirectory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585908352483-7bsfpbb16gaau9llq9jkrh9le353ta6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.supermiware.officialblackbusinessdirectory",
+            "certificate_hash": "b6cd746095bfaa9e9411662917597c9aee76b9c1"
+          }
+        },
+        {
+          "client_id": "585908352483-5pjnppie3endrv7dpmd8mlsljlaloqtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloXJeft-66JFNmcSR4Q3vo1FKoreWoN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585908352483-5pjnppie3endrv7dpmd8mlsljlaloqtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

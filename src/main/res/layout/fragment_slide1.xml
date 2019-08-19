@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.slide1Fragment">
+
+    <TextView
+        android:id="@+id/textViewPC1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/slide1_textentry"
+        android:textColor="#ffffff"
+        android:textFontWeight=""
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/textViewPC2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewPC1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/textpc2"
+        android:textColor="#ffffff"
+        android:textSize="70sp" />
+
+    <TextView
+        android:id="@+id/textViewPC3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textViewPC2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/textpc3"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <View
+        android:id="@+id/div1"
+        app:layout_constraintTop_toBottomOf="@+id/textViewPC3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/darker_gray" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/div1"
+        app:srcCompat="@drawable/ic_money_off_black_24dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/div1"
+        app:srcCompat="@drawable/ic_money_off_black_24dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="" />
+
+</android.support.constraint.ConstraintLayout>
